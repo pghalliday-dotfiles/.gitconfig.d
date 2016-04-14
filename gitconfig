@@ -1,0 +1,7 @@
+[user]
+	name = Peter Halliday
+	email = pghalliday@gmail.com
+[merge]
+	ff = only
+[push]
+	default = simple
