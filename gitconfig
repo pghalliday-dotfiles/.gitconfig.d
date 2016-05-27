@@ -5,3 +5,5 @@
 	ff = only
 [push]
 	default = simple
+[credential]
+        helper = cache
